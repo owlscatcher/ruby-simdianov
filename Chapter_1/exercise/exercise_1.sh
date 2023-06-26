@@ -1,4 +1,5 @@
 #!/bin/bash
+# Установите Ruby-интерпретатор на своем компьютере.
 
 echo "Read about RBenv - https://github.com/rbenv/rbenv"
 
